@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0187/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0187/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太微仙君功過格
+  date: '2015-08-28 23:40:12.872314'
+  source:
+    repository: kanripo
+    path: KR5a0187
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0187_000-ZTDZ.yaml, hash: 'sha256:e225f27625ef2af59075925b53f51d95ce33f438b33563b6855dcaf548fd561b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0187_000-ZTDZ.markers.yaml, hash: 'sha256:104a759da51feed1b7fa7ea77930470254c60693f05596205b3c5a1d8ed1526e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0187_SJB_000-030449a
+    span:
+    - body
+    - 0
+    - 3748
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:62a33cd9fe4d80bf92dc025a08bd5f2da79879522801840812fa354da2ac9b45
